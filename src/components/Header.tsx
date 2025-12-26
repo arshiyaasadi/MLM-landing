@@ -93,16 +93,34 @@ export function Header() {
               {t('header.home')}
             </Link>
             <Link
-              href="#pools"
+              href="#features"
               className="text-sm font-medium text-white transition-colors hover:text-gray-300"
             >
-              {t('header.pools')}
+              {t('header.features')}
             </Link>
             <Link
               href="#live-chart"
               className="text-sm font-medium text-white transition-colors hover:text-gray-300"
             >
               {t('header.chart')}
+            </Link>
+            <Link
+              href="#mlm-engine"
+              className="text-sm font-medium text-white transition-colors hover:text-gray-300"
+            >
+              {t('header.mlmEngine')}
+            </Link>
+            <Link
+              href="#pools"
+              className="text-sm font-medium text-white transition-colors hover:text-gray-300"
+            >
+              {t('header.pools')}
+            </Link>
+            <Link
+              href="#funds"
+              className="text-sm font-medium text-white transition-colors hover:text-gray-300"
+            >
+              {t('header.funds')}
             </Link>
             <Link
               href="#faqs"
@@ -156,11 +174,20 @@ export function Header() {
                             <MobileNavLink href="#home">
                               {t('header.home')}
                             </MobileNavLink>
-                            <MobileNavLink href="#pools">
-                              {t('header.pools')}
+                            <MobileNavLink href="#features">
+                              {t('header.features')}
                             </MobileNavLink>
                             <MobileNavLink href="#live-chart">
                               {t('header.chart')}
+                            </MobileNavLink>
+                            <MobileNavLink href="#mlm-engine">
+                              {t('header.mlmEngine')}
+                            </MobileNavLink>
+                            <MobileNavLink href="#pools">
+                              {t('header.pools')}
+                            </MobileNavLink>
+                            <MobileNavLink href="#funds">
+                              {t('header.funds')}
                             </MobileNavLink>
                             <MobileNavLink href="#faqs">
                               {t('header.faqs')}
