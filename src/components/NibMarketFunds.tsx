@@ -131,6 +131,8 @@ export function NibMarketFunds() {
     <section className="relative bg-gray-900 py-20 sm:py-32" id="funds">
       {/* Background grid */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]" />
+      {/* Background gradient */}
+      <div className="absolute inset-0 bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900" />
       
       <Container className="relative">
         <div className="mx-auto max-w-3xl text-center">

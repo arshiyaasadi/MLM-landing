@@ -65,7 +65,9 @@ export function LiveChart() {
   }
 
   return (
-    <section className="relative bg-gradient-to-b from-gray-900 via-gray-800 to-gray-900 py-20 sm:py-32" id="live-chart">
+    <section className="relative bg-gray-900 py-20 sm:py-32" id="live-chart">
+      {/* Background effects */}
+      <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:14px_24px]" />
       <Container>
         <div className="mx-auto max-w-2xl text-center">
           <motion.h2
