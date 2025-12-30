@@ -29,7 +29,7 @@ export function StakingPools() {
     <section className="relative bg-gray-900 py-20 sm:py-32" id="pools">
       {/* Background grid */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]" />
-      
+
       <Container className="relative">
         <div className="mx-auto max-w-2xl text-center">
           <motion.h2
@@ -56,7 +56,7 @@ export function StakingPools() {
           {pools.map((pool, index) => {
             const stakingPools = t('stakingPools') as any
             const poolData = stakingPools[pool.key]
-            
+
             return (
               <motion.div
                 key={pool.key}
@@ -66,7 +66,7 @@ export function StakingPools() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: index * 0.2 }}
               >
-          
+
 
                 {/* Decorative gradient orb */}
                 <div className={`absolute -top-20 -left-20 h-40 w-40 rounded-full bg-gradient-to-br ${pool.badgeColor} opacity-20 blur-3xl transition-opacity duration-300 group-hover:opacity-30`} />
@@ -105,7 +105,7 @@ export function StakingPools() {
                       <svg className="mt-1 h-5 w-5 flex-shrink-0 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                       </svg>
-                      <p className="text-sm text-gray-400">مدیریت حرفه‌ای توسط کارگزاری</p>
+                      <p className="text-sm text-gray-400">مدیریت حرفه‌ای توسط متخصصین تامین سرمایه نوین</p>
                     </div>
                     <div className="flex items-start gap-3">
                       <svg className="mt-1 h-5 w-5 flex-shrink-0 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">

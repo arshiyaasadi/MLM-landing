@@ -4,7 +4,6 @@ import Link from 'next/link'
 import { motion } from 'framer-motion'
 
 import { Container } from '@/components/Container'
-import { Logomark } from '@/components/Logo'
 import { useTranslation } from '@/hooks/useTranslation'
 
 const socialLinks = [
@@ -48,7 +47,7 @@ export function Footer() {
             {/* Logo and description */}
             <div>
               <div className="flex items-center text-white">
-                <Logomark className="h-10 w-auto flex-none fill-gray-400" />
+                <span className="text-xl font-semibold text-gray-400">تامین سرمایه نوین</span>
               </div>
             </div>
 
