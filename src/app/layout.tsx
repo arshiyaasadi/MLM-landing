@@ -20,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="fa" dir="rtl" className="bg-gray-900 antialiased" style={{ fontFamily: 'IRANSans, sans-serif' }}>
-      <body className="bg-gray-900 relative">
+      <body className="bg-gray-900 relative overflow-x-hidden">
         <ScrollOrbitBlur />
         {children}
       </body>

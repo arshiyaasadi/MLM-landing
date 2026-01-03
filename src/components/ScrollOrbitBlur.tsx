@@ -31,10 +31,16 @@ export function ScrollOrbitBlur() {
     if (viewportSize.width === 0 || viewportSize.height === 0) return
 
     const rotationSpeed = 2 // Full rotations per page scroll
-    // Smaller radius to keep elements close to center (200px max offset)
-    const maxRadius = 200
+    // Responsive radius: smaller on mobile to prevent horizontal scroll
+    // On mobile (width < 640px): 100px, otherwise 200px
+    const isMobile = window.innerWidth < 640
+    const maxRadius = isMobile ? 100 : 200
 
     const updatePositions = () => {
+      // Recalculate radius on each update (in case of resize)
+      const currentIsMobile = window.innerWidth < 640
+      const currentMaxRadius = currentIsMobile ? 100 : 200
+      
       // Calculate scroll progress (0 to 1)
       const scrollTop = window.scrollY || document.documentElement.scrollTop
       const scrollHeight = document.documentElement.scrollHeight - window.innerHeight
@@ -44,14 +50,14 @@ export function ScrollOrbitBlur() {
       const angle = progress * rotationSpeed * Math.PI * 2
 
       // Calculate offsets from center for purple element (clockwise: positive angle)
-      const purpleX = maxRadius * Math.cos(angle)
-      const purpleY = maxRadius * Math.sin(angle)
+      const purpleX = currentMaxRadius * Math.cos(angle)
+      const purpleY = currentMaxRadius * Math.sin(angle)
       purpleOffsetX.set(purpleX)
       purpleOffsetY.set(purpleY)
 
       // Calculate offsets from center for orange element (counter-clockwise: negative angle)
-      const orangeX = maxRadius * Math.cos(-angle)
-      const orangeY = maxRadius * Math.sin(-angle)
+      const orangeX = currentMaxRadius * Math.cos(-angle)
+      const orangeY = currentMaxRadius * Math.sin(-angle)
       orangeOffsetX.set(orangeX)
       orangeOffsetY.set(orangeY)
     }
