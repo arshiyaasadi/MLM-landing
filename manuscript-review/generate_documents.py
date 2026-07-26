@@ -156,6 +156,11 @@ def build_html(
     cover_title: str = "بسته کامل داوری و اصلاح مقاله",
     subtitle: str = "داوری تخصصی Q1، ممیزی منابع و نسخه اصلاحی انگلیسی",
 ) -> Path:
+    standalone_ltr = len(sections) == 1 and sections[0][2] == "ltr"
+    root_direction = "ltr" if standalone_ltr else "rtl"
+    root_language = "en" if standalone_ltr else "fa"
+    contents_label = "Contents" if standalone_ltr else "فهرست مطالب"
+    edition_label = "iPhone-friendly edition" if standalone_ltr else "نسخه مناسب مطالعه در آیفون"
     toc = []
     bodies = []
     for index, (title, path, direction, lang) in enumerate(sections, start=1):
@@ -168,7 +173,7 @@ def build_html(
 
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     document = f"""<!doctype html>
-<html lang="fa" dir="rtl">
+<html lang="{root_language}" dir="{root_direction}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -217,13 +222,13 @@ a {{ color: #1a5a96; overflow-wrap: anywhere; }}
 </style>
 </head>
 <body>
-<div class="cover">
+<div class="cover" dir="{root_direction}">
   <h1>{html.escape(cover_title)}</h1>
   <p>{html.escape(subtitle)}</p>
-  <p>نسخه مناسب مطالعه در آیفون — {generated}</p>
+  <p>{edition_label} — {generated}</p>
 </div>
 <div class="toc">
-  <h1>فهرست مطالب</h1>
+  <h1>{contents_label}</h1>
   <ol>{''.join(toc)}</ol>
 </div>
 {''.join(bodies)}
