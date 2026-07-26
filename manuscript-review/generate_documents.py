@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import argparse
 import re
 import zipfile
 from datetime import datetime, timezone
@@ -149,10 +150,15 @@ def markdown_to_html(markdown: str, direction: str, lang: str) -> str:
     return f'<section dir="{direction}" lang="{lang}">' + "\n".join(out) + "</section>"
 
 
-def build_html() -> Path:
+def build_html(
+    sections=SECTIONS,
+    basename: str = "Q1_Manuscript_Review_iPhone",
+    cover_title: str = "بسته کامل داوری و اصلاح مقاله",
+    subtitle: str = "داوری تخصصی Q1، ممیزی منابع و نسخه اصلاحی انگلیسی",
+) -> Path:
     toc = []
     bodies = []
-    for index, (title, path, direction, lang) in enumerate(SECTIONS, start=1):
+    for index, (title, path, direction, lang) in enumerate(sections, start=1):
         toc.append(f'<li><a href="#section-{index}">{html.escape(title)}</a></li>')
         body = markdown_to_html(path.read_text(encoding="utf-8"), direction, lang)
         bodies.append(
@@ -166,7 +172,7 @@ def build_html() -> Path:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>بسته کامل داوری و اصلاح مقاله</title>
+<title>{html.escape(cover_title)}</title>
 <style>
 @page {{ size: A4; margin: 16mm 14mm 18mm; }}
 * {{ box-sizing: border-box; }}
@@ -212,8 +218,8 @@ a {{ color: #1a5a96; overflow-wrap: anywhere; }}
 </head>
 <body>
 <div class="cover">
-  <h1>بسته کامل داوری و اصلاح مقاله</h1>
-  <p>داوری تخصصی Q1، ممیزی منابع و نسخه اصلاحی انگلیسی</p>
+  <h1>{html.escape(cover_title)}</h1>
+  <p>{html.escape(subtitle)}</p>
   <p>نسخه مناسب مطالعه در آیفون — {generated}</p>
 </div>
 <div class="toc">
@@ -223,7 +229,7 @@ a {{ color: #1a5a96; overflow-wrap: anywhere; }}
 {''.join(bodies)}
 </body>
 </html>"""
-    output_path = OUTPUT / "Q1_Manuscript_Review_iPhone.html"
+    output_path = OUTPUT / f"{basename}.html"
     output_path.write_text(document, encoding="utf-8")
     return output_path
 
@@ -324,22 +330,28 @@ def markdown_to_docx_xml(markdown: str, default_rtl: bool) -> str:
     return "".join(body)
 
 
-def build_docx() -> Path:
+def build_docx(
+    sections=SECTIONS,
+    basename: str = "Q1_Manuscript_Review_iPhone",
+    cover_title: str = "بسته کامل داوری و اصلاح مقاله",
+    subtitle: str = "داوری تخصصی Q1، ممیزی منابع و نسخه اصلاحی انگلیسی",
+    cover_rtl: bool = True,
+) -> Path:
     parts = [
-        paragraph_xml("بسته کامل داوری و اصلاح مقاله", style="Title", bold=True, size=40, force_rtl=True),
+        paragraph_xml(cover_title, style="Title", bold=True, size=40, force_rtl=cover_rtl),
         paragraph_xml(
-            "داوری تخصصی Q1، ممیزی منابع و نسخه اصلاحی انگلیسی",
+            subtitle,
             bold=True,
             size=26,
-            force_rtl=True,
+            force_rtl=cover_rtl,
         ),
         paragraph_xml(
-            "نسخه مناسب مطالعه در آیفون",
+            "iPhone-friendly edition" if not cover_rtl else "نسخه مناسب مطالعه در آیفون",
             size=22,
-            force_rtl=True,
+            force_rtl=cover_rtl,
         ),
     ]
-    for title, path, direction, _lang in SECTIONS:
+    for title, path, direction, _lang in sections:
         parts.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>')
         parts.append(paragraph_xml(title, style="Title", bold=True, size=36, force_rtl=direction == "rtl"))
         parts.append(markdown_to_docx_xml(path.read_text(encoding="utf-8"), direction == "rtl"))
@@ -417,7 +429,7 @@ def build_docx() -> Path:
   <Application>Manuscript Review Exporter</Application>
 </Properties>"""
 
-    output_path = OUTPUT / "Q1_Manuscript_Review_iPhone.docx"
+    output_path = OUTPUT / f"{basename}.docx"
     with zipfile.ZipFile(output_path, "w", zipfile.ZIP_DEFLATED) as package:
         package.writestr("[Content_Types].xml", content_types)
         package.writestr("_rels/.rels", root_rels)
@@ -430,9 +442,33 @@ def build_docx() -> Path:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--manuscript-only",
+        action="store_true",
+        help="Export only the corrected English manuscript",
+    )
+    args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    html_path = build_html()
-    docx_path = build_docx()
+    if args.manuscript_only:
+        sections = [("Corrected Manuscript", ROOT / "REVISED_MANUSCRIPT.md", "ltr", "en")]
+        basename = "Corrected_Manuscript_iPhone"
+        html_path = build_html(
+            sections,
+            basename,
+            "Corrected Manuscript",
+            "Revised trial report with updated references",
+        )
+        docx_path = build_docx(
+            sections,
+            basename,
+            "Corrected Manuscript",
+            "Revised trial report with updated references",
+            cover_rtl=False,
+        )
+    else:
+        html_path = build_html()
+        docx_path = build_docx()
     print(html_path)
     print(docx_path)
 
