@@ -26,8 +26,10 @@ All 83 allocated participants were reported to have completed three-month follow
 
 The reported aggregate data show a preliminary efficacy signal for both active protocols relative to an inert sham in patients able to attend an intensive clinic schedule. Uncertain allocation details, likely compromised participant masking, a site-mismatched sham, outcome-measure limitations, and insufficient power for the active-site comparison preclude confirmatory conclusions about efficacy or equivalence. Verification of prospective registration and randomization, followed by prespecified reanalysis of participant-level data, is required.
 
-**Trial registration:** IRCT [identifier; URL; registration date].  
-**Ethics approval:** [committee; approval identifier; approval date].  
+**Trial registration:** IRCT [identifier; URL; registration date].
+
+**Ethics approval:** [committee; approval identifier; approval date].
+
 **First participant enrolled:** [date].
 
 **Keywords:** migraine; external trigeminal nerve stimulation; transcutaneous electrical nerve stimulation; supraorbital nerve; infraorbital nerve; randomized trial
