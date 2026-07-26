@@ -38,9 +38,9 @@ The reported aggregate data show a preliminary efficacy signal for both active p
 
 ## 1. Introduction
 
-Migraine is a leading cause of years lived with disability worldwide and is characterized by recurrent headache and associated sensory and autonomic symptoms [1,2,34]. An updated global synthesis estimated the prevalence of active migraine at 14.0% and headache on at least 15 days per month at 4.6% [41]. Migraine imposes substantial individual, economic, and health-system burdens [42]. Current models describe altered processing across cortical, subcortical, brainstem, and trigeminovascular networks [43]. Preventive pharmacotherapy can reduce migraine burden, but contraindications, inadequate response, adverse effects, and medication overuse motivate the evaluation of non-pharmacological options [10,50].
+Migraine is a leading cause of years lived with disability worldwide and is characterized by recurrent headache and associated sensory and autonomic symptoms [1,2,34]. The GBD 2023 analysis confirms that headache disorders remain highly prevalent and that migraine accounts for most headache-attributed years lived with disability [53]. An updated global synthesis estimated the prevalence of active migraine at 14.0% and headache on at least 15 days per month at 4.6% [41]. Migraine imposes substantial individual, economic, and health-system burdens [42]. Current models describe altered processing across cortical, subcortical, brainstem, and trigeminovascular networks [43]. Preventive pharmacotherapy can reduce migraine burden, but contraindications, inadequate response, adverse effects, and medication overuse motivate the evaluation of non-pharmacological options [10,50].
 
-Non-invasive neuromodulation can alter nociceptive signaling without an implanted device. External stimulation of the supraorbital and supratrochlear branches of the trigeminal nerve has been evaluated for migraine prevention, including in a small sham-controlled trial and systematic reviews [15,26,44,46]. The certainty of evidence remains limited, and current recommendations are device-specific and conditional [47]. Efficacy estimates cannot be generalized across devices, electrode geometries, targets, waveforms, or dose schedules. Direct evidence for surface infraorbital stimulation in migraine is lacking; one small uncontrolled study evaluated combined supraorbital and infraorbital lidocaine blocks and could not isolate the infraorbital contribution [23].
+Non-invasive neuromodulation can alter nociceptive signaling without an implanted device. External stimulation of the supraorbital and supratrochlear branches of the trigeminal nerve has been evaluated for migraine prevention, including in a small sham-controlled trial and systematic reviews [15,26,44,46,55]. The certainty of evidence remains limited, and current recommendations are device-specific and conditional [47]. Efficacy estimates cannot be generalized across devices, electrode geometries, targets, waveforms, or dose schedules. Direct evidence for surface infraorbital stimulation in migraine is lacking; one small uncontrolled study evaluated combined supraorbital and infraorbital lidocaine blocks and could not isolate the infraorbital contribution [23,54].
 
 We therefore evaluated two facial TENS placements—supraorbital and infraorbital—against an inert supraorbital sham condition. The primary objective was to estimate each active treatment’s effect on monthly migraine attack frequency at three months relative to sham. The comparison between active sites was exploratory because the study was not designed for equivalence or non-inferiority.
 
@@ -295,9 +295,11 @@ The active-site contrast was imprecise and the study was not designed for equiva
 
 ### 4.2 Relation to previous evidence
 
-One small sham-controlled trial and subsequent evidence syntheses support a possible preventive effect of device-specific external trigeminal stimulation protocols [15,26,44,46]. However, pooled estimates are based on few heterogeneous studies, and one later synthesis found no significant benefit for several eTNS monotherapy outcomes [30]. Current IHS guidance makes only conditional recommendations for named devices and does not endorse generic or infraorbital TENS [47]. These results cannot be transferred directly to the Novin device and protocol used here because waveform, electrode configuration, delivered dose, target, and treatment schedule differ.
+One small sham-controlled trial and subsequent evidence syntheses support a possible preventive effect of device-specific external trigeminal stimulation protocols [15,26,44,46,55]. However, pooled estimates are based on few heterogeneous studies, and one later synthesis found no significant benefit for several eTNS monotherapy outcomes [30]. Current IHS guidance makes only conditional recommendations for named devices and does not endorse generic or infraorbital TENS [47]. These results cannot be transferred directly to the Novin device and protocol used here because waveform, electrode configuration, delivered dose, target, and treatment schedule differ.
 
-Direct evidence supporting surface infraorbital TENS for migraine is lacking. The combined nerve-block study [23] is indirect, and reference 24 concerns implanted occipital plus supraorbital—not infraorbital—stimulation. The current findings may justify a rigorously masked, site-matched trial rather than establish clinical effectiveness.
+A 2026 open-label active-controlled trial directly compared supraorbital tSNS with low-dose topiramate [56]. The tSNS arm had fewer adverse events but a lower responder rate (20.6% vs 33.9%) and did not meet the prespecified non-inferiority criterion. This result provides contemporary comparative context but does not validate the present protocol because the device, comparator, masking, and stimulation schedule differed.
+
+Direct evidence supporting surface infraorbital TENS for migraine is lacking. The combined nerve-block study [23] is indirect, and a contemporary peripheral-nerve-stimulation review likewise identifies stronger evidence for supraorbital and occipital targets than for infraorbital stimulation in migraine [54]. Reference 24 concerns implanted occipital plus supraorbital—not infraorbital—stimulation. The current findings may justify a rigorously masked, site-matched trial rather than establish clinical effectiveness.
 
 Avoid comparing this study’s percentage change in mean pain score with another study’s ≥50% responder proportion because these are different estimands.
 
@@ -390,7 +392,7 @@ Insert complete CRediT roles for each named author. Remove the placeholder state
 
 ## Corrected and added references
 
-Retain the original numbering for unchanged references during revision, correct references 11, 21, 31, and 38 as shown in the accompanying audit, and add references 41–52 below. Renumber the complete list automatically after the target journal is selected.
+Retain the original numbering for unchanged references during revision, correct references 11, 21, 31, and 38 as shown in the accompanying audit, and add references 41–56 below. Renumber the complete list automatically after the target journal is selected.
 
 **38.** Zandifar A, Banihashemi M, Haghdoost F, Masjedi SS, Manouchehri N, Asgari F, Najafi MR, Ghorbani A, Zandifar S, Saadatnia M. Reliability and validity of the Persian HIT-6 questionnaire in migraine and tension-type headache. *Pain Pract.* 2014;14(7):625–631. doi:10.1111/papr.12120.
 
@@ -417,6 +419,14 @@ Retain the original numbering for unchanged references during revision, correct 
 **51.** Zandifar A, Asgari F, Haghdoost F, Masjedi SS, Manouchehri N, Banihashemi M, et al. Reliability and validity of the Migraine Disability Assessment Scale among migraine and tension type headache in Iranian patients. *Biomed Res Int.* 2014;2014:978064. doi:10.1155/2014/978064.
 
 **52.** Diener HC, Tassorelli C, Dodick DW, et al. Guidelines of the International Headache Society for controlled trials of preventive treatment of migraine attacks in episodic migraine in adults. *Cephalalgia.* 2020;40(10):1026–1044. doi:10.1177/0333102420941839.
+
+**53.** GBD 2023 Headache Collaborators. Global, regional, and national burden of headache disorders, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023. *Lancet Neurol.* 2025;24(12):1005–1015. doi:10.1016/S1474-4422(25)00402-8.
+
+**54.** Zhou S, Hussain N, Abd-Elsayed A, Boulos R, Hakim M, Gupta M, Weaver T. Peripheral nerve stimulation for treatment of headaches: an evidence-based review. *Biomedicines.* 2021;9(11):1588. doi:10.3390/biomedicines9111588.
+
+**55.** Cocores AN, Smirnoff L, Greco G, Herrera R, Monteith TS. Update on neuromodulation for migraine and other primary headache disorders: recent advances and new indications. *Curr Pain Headache Rep.* 2025;29:47. doi:10.1007/s11916-024-01314-7.
+
+**56.** Ye Y, Xie X, Huang H, Zhang H, Yu Y, Qu W. Efficacy and safety of transcutaneous supraorbital nerve stimulation versus topiramate for migraine prevention: a non-inferiority randomized trial. *J Headache Pain.* 2026;27:143. doi:10.1186/s10194-026-02367-2.
 
 ### References to remove or restrict
 

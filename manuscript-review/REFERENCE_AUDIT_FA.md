@@ -82,30 +82,34 @@ Zandifar A, Banihashemi M, Haghdoost F, Masjedi SS, Manouchehri N, Asgari F, Naj
 
 1. Stovner LJ, Hagen K, Linde M, Steiner TJ. The global prevalence of headache: an update, with analysis of the influences of methodological factors on prevalence estimates. *J Headache Pain.* 2022;23:34. doi:10.1186/s10194-022-01402-2.
 2. Ashina M, Katsarava Z, Do TP, et al. Migraine: epidemiology and systems of care. *Lancet.* 2021;397(10283):1485–1495. doi:10.1016/S0140-6736(20)32160-7.
+3. GBD 2023 Headache Collaborators. Global, regional, and national burden of headache disorders, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023. *Lancet Neurol.* 2025;24(12):1005–1015. doi:10.1016/S1474-4422(25)00402-8.
 
 ### پاتوفیزیولوژی و medication overuse
 
-3. Puledda F, Silva EM, Suwanlaong K, Goadsby PJ. Migraine: from pathophysiology to treatment. *J Neurol.* 2023;270(7):3654–3666. doi:10.1007/s00415-023-11706-1.
-4. Ashina S, Terwindt GM, Steiner TJ, et al. Medication overuse headache. *Nat Rev Dis Primers.* 2023;9:5. doi:10.1038/s41572-022-00415-0.
+4. Puledda F, Silva EM, Suwanlaong K, Goadsby PJ. Migraine: from pathophysiology to treatment. *J Neurol.* 2023;270(7):3654–3666. doi:10.1007/s00415-023-11706-1.
+5. Ashina S, Terwindt GM, Steiner TJ, et al. Medication overuse headache. *Nat Rev Dis Primers.* 2023;9:5. doi:10.1038/s41572-022-00415-0.
 
 ### شواهد neuromodulation
 
-5. Stanak M, Wolf S, Jagoš H, Zebenholzer K. The impact of external trigeminal nerve stimulator on prevention and acute treatment of episodic and chronic migraine: a systematic review. *J Neurol Sci.* 2020;412:116725. doi:10.1016/j.jns.2020.116725.
-6. Evans AG, Horrar AN, Ibrahim MM, et al. Outcomes of transcutaneous nerve stimulation for migraine headaches: a systematic review and meta-analysis. *J Neurol.* 2022;269(8):4021–4029. doi:10.1007/s00415-022-11059-1.
-7. Yuan H, Orr SL, Al-Karagholi MAM, et al. International Headache Society evidence-based guidelines on the use of non-invasive neuromodulation devices for the acute and preventive treatment of migraine. *Cephalalgia.* 2025;45(10). doi:10.1177/03331024251388377.
+6. Stanak M, Wolf S, Jagoš H, Zebenholzer K. The impact of external trigeminal nerve stimulator on prevention and acute treatment of episodic and chronic migraine: a systematic review. *J Neurol Sci.* 2020;412:116725. doi:10.1016/j.jns.2020.116725.
+7. Evans AG, Horrar AN, Ibrahim MM, et al. Outcomes of transcutaneous nerve stimulation for migraine headaches: a systematic review and meta-analysis. *J Neurol.* 2022;269(8):4021–4029. doi:10.1007/s00415-022-11059-1.
+8. Yuan H, Orr SL, Al-Karagholi MAM, et al. International Headache Society evidence-based guidelines on the use of non-invasive neuromodulation devices for the acute and preventive treatment of migraine. *Cephalalgia.* 2025;45(10). doi:10.1177/03331024251388377.
+9. Zhou S, Hussain N, Abd-Elsayed A, Boulos R, Hakim M, Gupta M, Weaver T. Peripheral nerve stimulation for treatment of headaches: an evidence-based review. *Biomedicines.* 2021;9(11):1588. doi:10.3390/biomedicines9111588.
+10. Cocores AN, Smirnoff L, Greco G, Herrera R, Monteith TS. Update on neuromodulation for migraine and other primary headache disorders: recent advances and new indications. *Curr Pain Headache Rep.* 2025;29:47. doi:10.1007/s11916-024-01314-7.
+11. Ye Y, Xie X, Huang H, Zhang H, Yu Y, Qu W. Efficacy and safety of transcutaneous supraorbital nerve stimulation versus topiramate for migraine prevention: a non-inferiority randomized trial. *J Headache Pain.* 2026;27:143. doi:10.1186/s10194-026-02367-2.
 
 راهنمای ۲۰۲۵ فقط توصیه‌های ضعیف/مشروط برای دستگاه‌های نام‌برده ارائه می‌کند و Novin یا infraorbital TENS را تأیید نمی‌کند.
 
 ### طراحی کارآزمایی و گزارش‌دهی
 
-8. Tassorelli C, Diener HC, Silberstein SD, et al. Guidelines of the International Headache Society for clinical trials with neuromodulation devices for the treatment of migraine. *Cephalalgia.* 2021;41(11–12):1135–1151. doi:10.1177/03331024211010413.
-9. Diener HC, Tassorelli C, Dodick DW, et al. Guidelines of the International Headache Society for controlled trials of preventive treatment of migraine attacks in episodic migraine in adults. *Cephalalgia.* 2020;40(10):1026–1044. doi:10.1177/0333102420941839.
-10. Hopewell S, Chan AW, Collins GS, et al. CONSORT 2025 statement: updated guideline for reporting randomised trials. *BMJ.* 2025;389:e081123. doi:10.1136/bmj-2024-081123.
-11. Junqueira DR, Zorzela L, Golder S, et al. CONSORT Harms 2022 statement, explanation, and elaboration: updated guideline for the reporting of harms in randomised trials. *BMJ.* 2023;381:e073725. doi:10.1136/bmj-2022-073725.
+12. Tassorelli C, Diener HC, Silberstein SD, et al. Guidelines of the International Headache Society for clinical trials with neuromodulation devices for the treatment of migraine. *Cephalalgia.* 2021;41(11–12):1135–1151. doi:10.1177/03331024211010413.
+13. Diener HC, Tassorelli C, Dodick DW, et al. Guidelines of the International Headache Society for controlled trials of preventive treatment of migraine attacks in episodic migraine in adults. *Cephalalgia.* 2020;40(10):1026–1044. doi:10.1177/0333102420941839.
+14. Hopewell S, Chan AW, Collins GS, et al. CONSORT 2025 statement: updated guideline for reporting randomised trials. *BMJ.* 2025;389:e081123. doi:10.1136/bmj-2024-081123.
+15. Junqueira DR, Zorzela L, Golder S, et al. CONSORT Harms 2022 statement, explanation, and elaboration: updated guideline for the reporting of harms in randomised trials. *BMJ.* 2023;381:e073725. doi:10.1136/bmj-2022-073725.
 
 ### ابزار فارسی
 
-12. Zandifar A, Asgari F, Haghdoost F, Masjedi SS, Manouchehri N, Banihashemi M, et al. Reliability and validity of the Migraine Disability Assessment Scale among migraine and tension type headache in Iranian patients. *Biomed Res Int.* 2014;2014:978064. doi:10.1155/2014/978064.
+16. Zandifar A, Asgari F, Haghdoost F, Masjedi SS, Manouchehri N, Banihashemi M, et al. Reliability and validity of the Migraine Disability Assessment Scale among migraine and tension type headache in Iranian patients. *Biomed Res Int.* 2014;2014:978064. doi:10.1155/2014/978064.
 
 این رفرنس بعد از ۲۰۲۰ نیست، اما به دلیل ایرانی بودن مطالعه و استفاده از MIDAS باید افزوده شود.
 
@@ -114,10 +118,13 @@ Zandifar A, Banihashemi M, Haghdoost F, Masjedi SS, Manouchehri N, Asgari F, Naj
 | بخش | منابع |
 |---|---|
 | پاراگراف اول مقدمه، شیوع | Stovner 2022 |
+| پاراگراف اول مقدمه، جدیدترین بار جهانی | GBD 2023 Headache Collaborators، منتشرشده در 2025 |
 | پاراگراف اول مقدمه، بار اقتصادی/نظام سلامت | Ashina 2021 |
 | پاراگراف اول مقدمه، پاتوفیزیولوژی | Puledda 2023 |
 | جمله medication overuse | Ashina 2023 |
-| شواهد supraorbital eTNS | Stanak 2020 و Evans 2022 |
+| شواهد supraorbital eTNS | Stanak 2020، Evans 2022 و Cocores 2025 |
+| نبود شواهد مستقیم infraorbital | Zhou 2021 |
+| مقایسه جدید با درمان دارویی | Ye 2026 |
 | محدودیت قطعیت و توصیه بالینی | IHS 2025 |
 | تعریف پیامد پیشگیری و diary baseline | IHS preventive trials 2020 |
 | sham، blinding و طراحی دستگاه | IHS device trials 2021 |
