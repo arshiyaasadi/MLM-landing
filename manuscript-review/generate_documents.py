@@ -453,9 +453,37 @@ def main() -> None:
         action="store_true",
         help="Export only the corrected English manuscript",
     )
+    parser.add_argument(
+        "--complete-manuscript",
+        action="store_true",
+        help="Export the complete revised submission-style manuscript",
+    )
     args = parser.parse_args()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    if args.manuscript_only:
+    if args.complete_manuscript:
+        sections = [
+            (
+                "Complete Revised Manuscript",
+                ROOT / "COMPLETE_REVISED_MANUSCRIPT.md",
+                "ltr",
+                "en",
+            )
+        ]
+        basename = "Complete_Revised_Manuscript_iPhone"
+        html_path = build_html(
+            sections,
+            basename,
+            "Complete Revised Manuscript",
+            "Revised text, tables, and updated reference list",
+        )
+        docx_path = build_docx(
+            sections,
+            basename,
+            "Complete Revised Manuscript",
+            "Revised text, tables, and updated reference list",
+            cover_rtl=False,
+        )
+    elif args.manuscript_only:
         sections = [("Corrected Manuscript", ROOT / "REVISED_MANUSCRIPT.md", "ltr", "en")]
         basename = "Corrected_Manuscript_iPhone"
         html_path = build_html(
