@@ -38,9 +38,9 @@ The reported aggregate data show a preliminary efficacy signal for both active p
 
 ## 1. Introduction
 
-Migraine is a leading cause of years lived with disability worldwide and is characterized by recurrent headache and associated sensory and autonomic symptoms [1,2]. Preventive pharmacotherapy can reduce migraine burden, but adverse effects, contraindications, inadequate response, and medication overuse motivate the evaluation of non-pharmacological options [10].
+Migraine is a leading cause of years lived with disability worldwide and is characterized by recurrent headache and associated sensory and autonomic symptoms [1,2,34]. An updated global synthesis estimated the prevalence of active migraine at 14.0% and headache on at least 15 days per month at 4.6% [41]. Migraine imposes substantial individual, economic, and health-system burdens [42]. Current models describe altered processing across cortical, subcortical, brainstem, and trigeminovascular networks [43]. Preventive pharmacotherapy can reduce migraine burden, but contraindications, inadequate response, adverse effects, and medication overuse motivate the evaluation of non-pharmacological options [10,50].
 
-Non-invasive neuromodulation can alter nociceptive signaling without an implanted device. External stimulation of the supraorbital and supratrochlear branches of the trigeminal nerve has been evaluated for migraine prevention, including in sham-controlled studies [14–16]. However, efficacy estimates are device- and protocol-specific, and evidence for surface infraorbital stimulation is sparse. Studies of nerve blocks or implanted combined peripheral stimulation do not directly establish the efficacy of infraorbital TENS [23,24].
+Non-invasive neuromodulation can alter nociceptive signaling without an implanted device. External stimulation of the supraorbital and supratrochlear branches of the trigeminal nerve has been evaluated for migraine prevention, including in a small sham-controlled trial and systematic reviews [15,26,44,46]. The certainty of evidence remains limited, and current recommendations are device-specific and conditional [47]. Efficacy estimates cannot be generalized across devices, electrode geometries, targets, waveforms, or dose schedules. Direct evidence for surface infraorbital stimulation in migraine is lacking; one small uncontrolled study evaluated combined supraorbital and infraorbital lidocaine blocks and could not isolate the infraorbital contribution [23].
 
 We therefore evaluated two facial TENS placements—supraorbital and infraorbital—against an inert supraorbital sham condition. The primary objective was to estimate each active treatment’s effect on monthly migraine attack frequency at three months relative to sham. The comparison between active sites was exploratory because the study was not designed for equivalence or non-inferiority.
 
@@ -54,7 +54,7 @@ This single-center, three-arm, parallel-group trial was conducted at the outpati
 
 The protocol was approved by [full committee name] on [date] (approval [identifier]) and registered at the Iranian Registry of Clinical Trials on [date] (IRCT [identifier]; [URL]) before enrollment of the first participant on [date]. Written informed consent was obtained from all participants. Any discrepancy between the original registry/protocol and this report is listed in Supplementary Table S1 with its date, rationale, and whether it occurred before access to outcome data.
 
-Reporting follows CONSORT 2025, the extension for non-pharmacological interventions, and TIDieR. The dated protocol and statistical analysis plan are available at [repository/URL].
+Reporting follows CONSORT 2025, CONSORT Harms 2022, the CONSORT extension for non-pharmacological interventions, and TIDieR [48,49]. The dated protocol and statistical analysis plan are available at [repository/URL].
 
 > If registration occurred after enrollment, replace the prospective-registration sentence with the factual chronology and explain the delay.
 
@@ -127,13 +127,13 @@ For all groups, report:
 
 The primary outcome was [verify from original protocol and registry] monthly migraine attack frequency during [exact diary window] at three months. Define the unit, denominator, standardization for incomplete/unequal diary windows, and rules for recurrence.
 
-If monthly migraine days were collected, they should be reported because they are more conventional in preventive migraine trials. Report ≥50% responder rates only if prespecified or clearly label them exploratory.
+If monthly migraine days were collected, they should be reported because current preventive-trial guidance recommends change in monthly migraine days from a prospective 4–8-week diary baseline [52]. Report ≥50% responder rates only if prespecified or clearly label them exploratory.
 
 #### Secondary outcomes
 
 1. Pain intensity measured with [10-cm VAS or 0–10 NRS], anchors [specify], referring to [average/worst/typical pain] over [recall window].
-2. MIDAS total score, using the validated [Persian] version and its standard three-month recall period. The one-month assessment overlaps the pretreatment period and should not be interpreted as an isolated one-month treatment effect.
-3. HIT-6 total score, using a correctly cited validated Persian version.
+2. MIDAS total score, using the validated Persian version [51] and its standard three-month recall period. The one-month assessment overlaps the pretreatment period and should not be interpreted as an isolated one-month treatment effect.
+3. HIT-6 total score, using the correctly cited validated Persian version [38].
 4. Number of acute oral analgesic-use occasions during [exact 28-day window], with medication classes and counting rules defined.
 5. MPQ-5 score, reported as exploratory unless a validated Persian version and longitudinal responsiveness can be documented. Provide score range, item scoring, recall period, and interpretation.
 
@@ -295,9 +295,9 @@ The active-site contrast was imprecise and the study was not designed for equiva
 
 ### 4.2 Relation to previous evidence
 
-Prior sham-controlled studies support a potential preventive effect of device-specific external trigeminal stimulation protocols [14–16]. However, those results cannot be transferred directly to the Novin device and protocol used here because waveform, electrode configuration, delivered dose, and treatment schedule may differ.
+One small sham-controlled trial and subsequent evidence syntheses support a possible preventive effect of device-specific external trigeminal stimulation protocols [15,26,44,46]. However, pooled estimates are based on few heterogeneous studies, and one later synthesis found no significant benefit for several eTNS monotherapy outcomes [30]. Current IHS guidance makes only conditional recommendations for named devices and does not endorse generic or infraorbital TENS [47]. These results cannot be transferred directly to the Novin device and protocol used here because waveform, electrode configuration, delivered dose, target, and treatment schedule differ.
 
-Evidence specifically supporting surface infraorbital TENS remains limited. Studies of combined nerve blocks and implanted peripheral stimulation [23,24] are indirect and should not be described as direct evidence for this intervention. The current findings may justify a rigorously masked, site-matched trial rather than establish clinical effectiveness.
+Direct evidence supporting surface infraorbital TENS for migraine is lacking. The combined nerve-block study [23] is indirect, and reference 24 concerns implanted occipital plus supraorbital—not infraorbital—stimulation. The current findings may justify a rigorously masked, site-matched trial rather than establish clinical effectiveness.
 
 Avoid comparing this study’s percentage change in mean pain score with another study’s ≥50% responder proportion because these are different estimands.
 
@@ -331,7 +331,7 @@ The previously reported analysis assigning nonrandomized individuals to sham was
 
 ### 4.5 Future research
 
-A definitive study should use a verifiable, prospectively registered protocol and SAP; concealed allocation with suitable variable block sizes; an active sensory sham matched separately to each electrode site; blinded outcome assessment; standard 28-day migraine-day outcomes; validated patient-reported measures; class-specific medication rules; adequate power for the intended contrasts; systematic harms capture; and longer follow-up. A factorial or double-dummy design could separate stimulation-site effects from sham-site and sensory-expectation effects.
+A definitive study should follow the IHS guideline for neuromodulation-device trials [45] and use a verifiable, prospectively registered protocol and SAP; concealed allocation with suitable variable block sizes; an active sensory sham matched separately to each electrode site; blinded outcome assessment; standard 28-day migraine-day outcomes [52]; validated patient-reported measures; class-specific medication rules; adequate power for the intended contrasts; systematic harms capture [49]; and longer follow-up. A factorial or double-dummy design could separate stimulation-site effects from sham-site and sensory-expectation effects.
 
 ---
 
@@ -388,9 +388,42 @@ Insert complete CRediT roles for each named author. Remove the placeholder state
 11. Complete masking cross-tabulation.
 12. Complete harms table.
 
-## Reference corrections required
+## Corrected and added references
 
-- Verify and correct the Persian HIT-6 validation citation. The supplied citation appears inconsistent with the known publication: *Pain Practice*. 2014;14(7):625–631. doi:10.1111/papr.12120.
-- Verify whether the MPQ-5 citation is only a meeting abstract and whether it validates longitudinal responsiveness.
-- Characterize references 23 and 24 as indirect evidence rather than direct evidence for infraorbital TENS.
-- Recheck every DOI and format references to the target journal style.
+Retain the original numbering for unchanged references during revision, correct references 11, 21, 31, and 38 as shown in the accompanying audit, and add references 41–52 below. Renumber the complete list automatically after the target journal is selected.
+
+**38.** Zandifar A, Banihashemi M, Haghdoost F, Masjedi SS, Manouchehri N, Asgari F, Najafi MR, Ghorbani A, Zandifar S, Saadatnia M. Reliability and validity of the Persian HIT-6 questionnaire in migraine and tension-type headache. *Pain Pract.* 2014;14(7):625–631. doi:10.1111/papr.12120.
+
+**41.** Stovner LJ, Hagen K, Linde M, Steiner TJ. The global prevalence of headache: an update, with analysis of the influences of methodological factors on prevalence estimates. *J Headache Pain.* 2022;23:34. doi:10.1186/s10194-022-01402-2.
+
+**42.** Ashina M, Katsarava Z, Do TP, et al. Migraine: epidemiology and systems of care. *Lancet.* 2021;397(10283):1485–1495. doi:10.1016/S0140-6736(20)32160-7.
+
+**43.** Puledda F, Silva EM, Suwanlaong K, Goadsby PJ. Migraine: from pathophysiology to treatment. *J Neurol.* 2023;270(7):3654–3666. doi:10.1007/s00415-023-11706-1.
+
+**44.** Stanak M, Wolf S, Jagoš H, Zebenholzer K. The impact of external trigeminal nerve stimulator on prevention and acute treatment of episodic and chronic migraine: a systematic review. *J Neurol Sci.* 2020;412:116725. doi:10.1016/j.jns.2020.116725.
+
+**45.** Tassorelli C, Diener HC, Silberstein SD, et al. Guidelines of the International Headache Society for clinical trials with neuromodulation devices for the treatment of migraine. *Cephalalgia.* 2021;41(11–12):1135–1151. doi:10.1177/03331024211010413.
+
+**46.** Evans AG, Horrar AN, Ibrahim MM, et al. Outcomes of transcutaneous nerve stimulation for migraine headaches: a systematic review and meta-analysis. *J Neurol.* 2022;269(8):4021–4029. doi:10.1007/s00415-022-11059-1.
+
+**47.** Yuan H, Orr SL, Al-Karagholi MAM, et al. International Headache Society evidence-based guidelines on the use of non-invasive neuromodulation devices for the acute and preventive treatment of migraine. *Cephalalgia.* 2025;45(10). doi:10.1177/03331024251388377.
+
+**48.** Hopewell S, Chan AW, Collins GS, et al. CONSORT 2025 statement: updated guideline for reporting randomised trials. *BMJ.* 2025;389:e081123. doi:10.1136/bmj-2024-081123.
+
+**49.** Junqueira DR, Zorzela L, Golder S, et al. CONSORT Harms 2022 statement, explanation, and elaboration: updated guideline for the reporting of harms in randomised trials. *BMJ.* 2023;381:e073725. doi:10.1136/bmj-2022-073725.
+
+**50.** Ashina S, Terwindt GM, Steiner TJ, et al. Medication overuse headache. *Nat Rev Dis Primers.* 2023;9:5. doi:10.1038/s41572-022-00415-0.
+
+**51.** Zandifar A, Asgari F, Haghdoost F, Masjedi SS, Manouchehri N, Banihashemi M, et al. Reliability and validity of the Migraine Disability Assessment Scale among migraine and tension type headache in Iranian patients. *Biomed Res Int.* 2014;2014:978064. doi:10.1155/2014/978064.
+
+**52.** Diener HC, Tassorelli C, Dodick DW, et al. Guidelines of the International Headache Society for controlled trials of preventive treatment of migraine attacks in episodic migraine in adults. *Cephalalgia.* 2020;40(10):1026–1044. doi:10.1177/0333102420941839.
+
+### References to remove or restrict
+
+- Reference 17 is an abstract-only pilot report and should not support an efficacy claim.
+- Reference 24 concerns implanted occipital plus supraorbital stimulation and must not support infraorbital TENS.
+- Reference 31 is a meeting abstract with incorrect metadata in the supplied manuscript and does not validate MPQ-5 as a continuous longitudinal endpoint.
+- Reference 16 supports post-marketing tolerability and satisfaction, not efficacy.
+- References 18–20 are uncontrolled exploratory studies.
+- Reference 25 (TEAM) concerns acute treatment, not prevention.
+- Reference 40 concerns vagus nerve stimulation and is only indirect evidence for the present intervention.
