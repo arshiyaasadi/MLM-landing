@@ -1,0 +1,367 @@
+Supraorbital versus Infraorbital Transcutaneous Electrical Nerve Stimulation for Migraine
+Prevention: A Single-Blind, Sham-Controlled Randomized Trial
+
+[Author names and affiliations to be completed]
+
+Corresponding author: [Name, email, ORCID]
+
+
+Abstract
+========
+
+Background: Migraine is a leading cause of neurological disability. Non-invasive
+neuromodulation with transcutaneous electrical nerve stimulation (TENS) is a promising
+preventive option, but randomized head-to-head comparisons of supraorbital versus
+infraorbital stimulation are scarce.
+
+Objective: To compare the preventive efficacy of bilateral supraorbital versus
+infraorbital TENS against sham stimulation in adults with migraine.
+
+Methods: In this single-blind, three-arm randomized controlled trial, 83 adults with
+migraine (ICHD-3) were allocated 1:1:1 to supraorbital TENS (n = 28), infraorbital TENS (n
+= 27), or sham TENS (n = 28). Active stimulation was delivered bilaterally in clinic (100
+Hz; pulse width 200 us; intensity titrated to a strong but tolerable sensory level, target
+approx. 10 mA; 30 min/session; six sessions/week for 4 weeks). Sham electrodes were placed
+over the supraorbital nerves without current delivery. The primary outcome was monthly
+migraine attack frequency at 3 months. Secondary outcomes were pain intensity (VAS),
+disability (MIDAS), headache impact (HIT-6), oral analgesic-use frequency, and Migraine
+Prevention Questionnaire (MPQ-5) score, assessed at baseline, 1 month, and 3 months. The
+trial is reported in accordance with CONSORT 2010 and the CONSORT extension for non-
+pharmacological treatments.
+
+Results: All 83 randomized participants completed follow-up. Both active interventions
+produced significant within-group reductions in monthly attack frequency (Friedman p <
+0.001), whereas sham did not (p = 0.381). At 3 months, both active groups were superior to
+sham on the primary outcome (Kruskal-Wallis p < 0.001; supraorbital-sham mean difference
+-6.35 attacks/month, 95% CI -8.46 to -4.24; infraorbital-sham -6.78, 95% CI -8.86 to
+-4.70). No statistically significant difference was detected between supraorbital and
+infraorbital stimulation (mean difference 0.43, 95% CI -0.94 to 1.80). Parallel
+superiority of active TENS over sham was observed for all secondary outcomes (all Kruskal-
+Wallis p < 0.001; Bonferroni-adjusted alpha = 0.01). Pain intensity decreased by 46.3% and
+44.8% with supraorbital and infraorbital TENS, respectively, versus 8.0% with sham. No
+serious adverse events occurred.
+
+Conclusions: In this selected, highly adherent outpatient cohort, supraorbital and
+infraorbital TENS each improved migraine-related outcomes relative to sham. Between-site
+differences were not demonstrated. Given underpowering for the site comparison, sham-site
+asymmetry, incomplete participant blinding, and pre-randomization enrichment for schedule
+adherence, these findings should be regarded as preliminary and require confirmation in
+larger, site-matched, more rigorously blinded trials.
+
+Trial registration: Ethics approval code: [TO BE COMPLETED]; IRCT registration number: [TO
+BE COMPLETED].
+
+Keywords: Migraine; Transcutaneous electrical nerve stimulation; Supraorbital nerve;
+Infraorbital nerve; Trigeminal neuromodulation; Randomized controlled trial
+
+
+1. Introduction
+===============
+
+Migraine is a prevalent and disabling neurological disorder and remains among the leading
+causes of years lived with disability worldwide [1,34]. It is characterized by recurrent
+attacks of moderate-to-severe headache, typically lasting 4-72 hours and often accompanied
+by photophobia, phonophobia, nausea, or vomiting [2]. Contemporary models conceptualize
+migraine as a primary brain disorder involving activation and sensitization of the
+trigeminovascular pathway, with altered connectivity among cranio-cervical afferents,
+brainstem nuclei, and higher-order networks [3,28].
+
+Migraine imposes a substantial clinical and socioeconomic burden. Headache accounts for a
+sizeable fraction of primary-care and neurology outpatient visits [4-6], and a minority of
+patients develop high-frequency or chronic migraine [7,8], amplifying disability and
+healthcare utilization [9]. Although pharmacological prophylaxis and acute therapies are
+central to management, adverse effects, incomplete response, and medication-overuse
+headache frequently limit long-term benefit [10,35]. These constraints have intensified
+interest in non-pharmacological strategies with favorable tolerability.
+
+Peripheral neuromodulation is one such approach. Transcutaneous electrical nerve
+stimulation (TENS) delivers pulsed currents across intact skin to modulate nociceptive
+signaling [11-13]. Gate-control and descending-inhibition frameworks provide a mechanistic
+rationale for analgesic effects [13,14]. The Cefaly device, which stimulates the
+supraorbital and supratrochlear nerves, was the first FDA-cleared non-invasive device for
+migraine prophylaxis [14,15]. Subsequent studies of supraorbital TENS (external trigeminal
+nerve stimulation; eTNS/tSNS) have reported reductions in attack frequency, headache days,
+and analgesic use, with generally mild adverse effects [15-21]. Stimulation parameters
+themselves may influence clinical response [22].
+
+Evidence for infraorbital nerve stimulation is far more limited and largely derived from
+nerve-block or implanted-stimulator series rather than randomized TENS trials [23,24].
+Because both the ophthalmic and maxillary divisions converge on shared trigeminocervical
+circuits, a direct comparison of supraorbital and infraorbital surface stimulation is
+clinically and scientifically relevant. We therefore conducted a randomized, sham-
+controlled trial to compare bilateral supraorbital versus infraorbital TENS on monthly
+migraine attack frequency (primary outcome) and on pain intensity, disability, headache
+impact, and medication-related secondary outcomes.
+
+
+2. Methods
+==========
+
+
+2.1. Study design and setting
+
+We conducted a single-blind, three-arm randomized controlled trial (2020-2024) in the
+outpatient Physical Medicine and Rehabilitation clinics of Isfahan University of Medical
+Sciences, Iran. Reporting follows the CONSORT 2010 statement and the CONSORT extension for
+non-pharmacological treatments. The protocol was approved by the institutional ethics
+committee (approval code: [TO BE COMPLETED]) and prospectively registered in the Iranian
+Registry of Clinical Trials (IRCT: [TO BE COMPLETED]). All participants provided written
+informed consent, and the study adhered to the Declaration of Helsinki.
+
+
+2.2. Participants
+
+Eligible participants were adults aged 18-65 years with migraine with or without aura
+according to the International Classification of Headache Disorders, 3rd edition (ICHD-3;
+codes 1.1 and 1.2.1) [2], and >=2 migraine attacks per month during the preceding three
+months. Monthly migraine attack frequency was defined as the number of discrete migraine
+attacks (not headache days), ascertained from a prospective diary; a new attack was
+counted after a pain-free interval of >=24 hours.
+
+Of 137 patients assessed for eligibility, 54 were excluded before randomization because
+they were unable or unwilling to commit to the intensive schedule (six clinic sessions
+weekly for four weeks; 24 sessions). The remaining 83 patients were randomized (Figure 1).
+Consequently, the randomized sample was enriched for individuals with high schedule
+flexibility and treatment commitment. This selection bias is acknowledged as a limitation
+affecting external validity (Section 4.7) and most plausibly explains the absence of post-
+randomization attrition.
+
+
+2.3. Exclusion criteria
+
+Exclusion criteria were: prophylactic migraine medication within two weeks before
+enrollment; preventive interventions (e.g., nerve block, botulinum toxin) within the past
+year; medication-overuse headache (ICHD-3 8.2); other concurrent primary headache
+disorders requiring active management; severe psychiatric or systemic illness; pregnancy
+or lactation; substance abuse; and anticipated inability to comply with the protocol.
+
+
+2.4. Sample size
+
+The original dichotomous responder-rate calculation was incongruent with the continuous
+primary endpoint; the sample size was therefore recalculated for monthly attack frequency.
+Using PREMICE trial data [15], an assumed SD of approx. 4.5 attacks, 80% power, two-sided
+alpha = 0.05, and a minimum clinically important between-group difference of 3
+attacks/month yielded approx. 35 participants per group. Allowing 20% attrition, the ideal
+target was 42 per group (approx. 126 total). Because of feasibility constraints, a
+practical target of >=27 per group was adopted (planned n approx. 81); 83 participants
+were ultimately randomized (28, 27, and 28). Achieved power for the planned 3-attack
+contrast was approx. 64%. Post-hoc power for the observed active-versus-sham contrasts
+exceeded 99% because of large observed effect sizes; this estimate is descriptive only and
+does not validate the a priori design.
+
+
+2.5. Randomization and blinding
+
+Participants were allocated 1:1:1 using computer-generated sequences in SPSS version 22
+(IBM Corp., Armonk, NY, USA) with a block size of 4. Allocation was concealed with
+sequentially numbered, sealed, opaque envelopes. Session schedules and electrode
+procedures were matched across arms insofar as the design allowed.
+
+Because the sham arm delivered no perceptible current, complete sensory blinding cannot be
+assumed. A post-intervention blinding assessment asked participants to guess allocation:
+62% in the active arms and 54% in the sham arm guessed correctly (p = 0.34). Outcome
+assessment and statistical analysis were performed by an investigator blinded to group
+assignment.
+
+
+2.6. Interventions
+
+Supraorbital TENS: Bilateral surface stimulation over the supraorbital foramina/notches
+under therapist supervision, using a Novin Co. (Iran) TENS device. Parameters: 100 Hz;
+pulse width 200 us; 30 min/session; six sessions/week for 4 weeks (24 planned sessions).
+Intensity was titrated to a strong but tolerable paresthesia (target approx. 10 mA).
+
+Infraorbital TENS: Identical parameters, schedule, and device applied bilaterally over the
+infraorbital foramina.
+
+Sham TENS: Electrodes were placed over the supraorbital nerves with identical appearance,
+schedule, and session duration; the stimulator was switched on visually but delivered no
+current (inert sham). The sham condition therefore replicated only the supraorbital
+montage; the infraorbital-versus-sham contrast is not site-matched (Section 4.7).
+
+All participants continued usual acute migraine therapy (acetaminophen, NSAIDs, or ergot
+derivatives) as needed. Adherence was defined as attendance at scheduled clinic sessions;
+all randomized participants completed the planned schedule.
+
+
+2.7. Outcomes
+
+Outcomes were assessed at baseline, 1 month, and 3 months after treatment initiation.
+
+Primary outcome: Monthly migraine attack frequency at 3 months.
+
+Secondary outcomes: (i) pain intensity on a 0-10 visual analog scale (VAS); (ii) Migraine
+Disability Assessment (MIDAS) [33]; (iii) Headache Impact Test (HIT-6) [32,38]; (iv)
+frequency of oral analgesic use (occasions/month); and (v) Migraine Prevention
+Questionnaire (MPQ-5) score [31]. Because five secondary endpoints were examined without a
+pre-specified hierarchy, a Bonferroni-adjusted threshold of alpha = 0.01 (0.05/5) was
+applied for secondary inferences.
+
+Adverse events were captured by open-ended clinician inquiry at each visit rather than a
+standardized checklist.
+
+
+2.8. Statistical analysis
+
+Analyses used SPSS version 22. Continuous variables are summarized as mean +/- SD.
+Baseline between-group comparisons used one-way ANOVA for continuous variables and
+Pearson's chi-square test for categorical variables. Within-group changes across the three
+time points were evaluated with the Friedman test. Between-group differences at 3 months
+were assessed with the Kruskal-Wallis test, followed by pairwise Mann-Whitney U tests.
+
+Between-group mean differences at 3 months are accompanied by approximate 95% confidence
+intervals (CIs) calculated from group means and SDs (Welch formula). These CIs are
+descriptive effect-size supplements to the non-parametric tests and are not formally
+aligned with the rank-based inference.
+
+All 83 randomized participants completed assessments and were analyzed as randomized
+(complete-case; no imputation required). Two-sided p < 0.05 defined statistical
+significance for the primary between-group contrast. We did not perform imputation-based
+sensitivity analyses that reassign pre-randomization exclusions into a single study arm,
+because such patients were never randomized and cannot validly be attributed to one post-
+allocation group; instead, selection bias is addressed qualitatively in the Discussion.
+
+
+3. Results
+==========
+
+
+3.1. Participants
+
+Of 137 screened patients, 54 were excluded before randomization for inability or
+unwillingness to complete the 24-session schedule, and 83 were randomized to supraorbital
+TENS (n = 28), infraorbital TENS (n = 27), or sham (n = 28) (Figure 1). All randomized
+participants received the allocated intervention, completed the 4-week schedule, and
+provided 1- and 3-month outcomes; there were no post-randomization dropouts.
+
+Baseline age and sex were balanced across groups (Table 1). Overall, 63/83 participants
+(75.9%) were female. Mean baseline attack frequency was high (approximately 12-15
+attacks/month), indicating a high-frequency migraine cohort, although formal episodic-
+versus-chronic subgrouping was not pre-specified.
+
+
+Table 1. Baseline demographic characteristics. Values are mean +/- SD or n. No significant between-group differences were observed.
+
+No serious adverse events were recorded. Mild stimulation-related sensations were expected
+with active TENS and did not lead to discontinuation (Section 3.5).
+
+
+3.2. Primary outcome: migraine attack frequency
+
+Both active groups showed significant reductions in monthly attack frequency from baseline
+to 3 months (supraorbital: 14.18 +/- 3.95 to 6.59 +/- 2.70; infraorbital: 15.13 +/- 4.51
+to 6.16 +/- 2.48; Friedman p < 0.001). The sham group showed no significant change (12.32
++/- 4.99 to 12.94 +/- 5.01; p = 0.381) (Table 2; Figure 2).
+
+
+Table 2. Monthly migraine attack frequency (primary outcome). Data are mean +/- SD; within-group p-values are from Friedman tests.
+
+
+3.3. Secondary outcomes
+
+Pain intensity (VAS) decreased significantly in both active groups (supraorbital: 7.30 +/-
+1.29 to 3.92 +/- 0.97; infraorbital: 7.07 +/- 1.47 to 3.90 +/- 1.33; Friedman p < 0.001)
+but not in sham (7.10 +/- 1.11 to 6.53 +/- 1.02; p = 0.125) (Table 3).
+
+
+Table 3. Pain intensity (VAS). Data are mean +/- SD.
+
+MIDAS scores improved in both active groups (supraorbital: 20.02 +/- 5.22 to 9.76 +/-
+3.12; infraorbital: 17.94 +/- 6.30 to 10.30 +/- 2.07; p < 0.001) but not in sham (19.36
++/- 4.05 to 15.96 +/- 5.39; p = 0.174) (Table 4). HIT-6 decreased in both active groups
+(supraorbital: 62.58 +/- 4.78 to 49.48 +/- 4.84; infraorbital: 64.22 +/- 5.93 to 51.40 +/-
+3.01; p < 0.001) without significant change in sham (61.11 +/- 3.74 to 62.18 +/- 4.13; p =
+0.364) (Table 5).
+
+
+Table 4. MIDAS disability scores. Data are mean +/- SD.
+
+
+Table 5. HIT-6 scores. Data are mean +/- SD.
+
+Oral analgesic use decreased significantly with active TENS (supraorbital: 14.62 +/- 4.35
+to 5.02 +/- 2.64; infraorbital: 14.72 +/- 3.50 to 5.65 +/- 2.55; p < 0.001) but not with
+sham (14.36 +/- 4.27 to 12.06 +/- 4.25; p = 0.066). MPQ-5 scores likewise decreased in
+both active groups (p < 0.001) without significant sham change (p = 0.507) (Table 6).
+
+
+Table 6. Medication-related outcomes. Data are mean +/- SD.
+
+
+3.4. Between-group comparisons at 3 months
+
+Kruskal-Wallis tests showed significant between-group differences at 3 months for the
+primary outcome and all secondary outcomes (all p < 0.001). Pairwise contrasts indicated
+superiority of both active arms over sham, without statistically significant differences
+between supraorbital and infraorbital stimulation (Table 7). All secondary between-group
+contrasts remained significant under the Bonferroni-adjusted alpha = 0.01.
+
+
+Table 7. Between-group comparisons at 3 months. Overall p-values are from Kruskal-Wallis tests. Mean differences (MD) with approximate 95% CIs use the Welch formula (descriptive). Negative MD favors the first-named group when lower values indicate improvement.
+
+
+3.5. Adverse events and tolerability
+
+In the active arms, the most common adverse effects were mild, expected electrode-site
+sensations recorded by open-ended inquiry: itching in 9/28 (32.1%) supraorbital and 8/27
+(29.6%) infraorbital participants; paresthesia/tingling in 12/28 (42.9%) and 11/27
+(40.7%), respectively. All events were transient and did not require discontinuation. No
+serious adverse events occurred in any arm. Open-ended capture may have under-ascertained
+milder effects.
+
+
+4. Discussion
+=============
+
+
+4.1. Principal findings
+
+In this single-blind, sham-controlled randomized trial, preventive TENS applied over
+either the supraorbital or the infraorbital nerve reduced monthly migraine attack
+frequency and improved secondary patient-reported outcomes relative to sham at 3 months.
+Between-site differences were not statistically significant. Because the trial was neither
+powered nor pre-specified for equivalence or non-inferiority, the absence of a site
+difference must not be interpreted as proven equivalence, particularly given sham-site
+asymmetry.
+
+The magnitude of change was clinically notable: VAS reductions of approx. 45-46% with
+active stimulation versus 8% with sham, and HIT-6 reductions exceeding the commonly cited
+approx. 5-point within-person minimal clinically important difference [39]. Nevertheless,
+all outcomes were patient-reported, participant blinding was incomplete, and the cohort
+was enriched for high adherence; expectation effects and selection may therefore have
+contributed to part of the observed effect sizes alongside any physiological action of
+TENS.
+
+
+4.2. Relation to prior work
+
+Our findings are directionally consistent with evidence supporting trigeminal
+neuromodulation in migraine. The TEAM trial demonstrated benefit of eTNS for acute
+migraine outcomes [25], and a systematic review of neuromodulation RCTs concluded that
+selected techniques, including supraorbital TENS for prevention, can improve migraine-
+related endpoints with a generally favorable safety profile, albeit with limited overall
+evidence quality and typically small-to-moderate effects [26]. The relative VAS reductions
+observed here are broadly comparable to responder patterns reported for supraorbital
+neurostimulation [27], but cross-trial numerical comparisons should be cautious given
+differences in design, population, and outcome definitions.
+
+
+4.3. Site comparison: descriptive patterns only
+
+Numerically, supraorbital stimulation showed a faster early VAS trajectory (44.2%
+reduction at 1 month; 46.3% at 3 months), whereas infraorbital stimulation improved more
+gradually (28.6% then 44.8%), converging by 3 months (supra-infra MD 0.02, 95% CI -0.60 to
+0.64). These patterns were not statistically tested as a pre-specified time-by-site
+interaction and are hypothesis-generating only. A speculative anatomical account—that the
+more superficial supraorbital terminal branch may permit earlier afferent recruitment,
+whereas infraorbital (maxillary) afferents engage partially distinct pathways before
+converging on shared trigeminocervical circuits [28,29]—remains untested. Broader proposed
+mechanisms of TENS analgesia include A-beta-mediated gate control, descending inhibition,
+and monoaminergic/CGRP-related modulation [3,13,28,29]; this trial included no imaging or
+biomarker measures capable of adjudicating among them.
+
+
+4.4. Disability, impact, and medication use
+
+MIDAS decreased by 51.2% (supraorbital) and 42.6% (infraorbital). HIT-6 fell from the
