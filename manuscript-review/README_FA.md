@@ -12,8 +12,10 @@
 - `exports/Q1_Manuscript_Review_iPhone.docx`: فایل Word واقعی با پشتیبانی راست‌به‌چپ فارسی و بخش انگلیسی چپ‌به‌راست.
 - `exports/Corrected_Manuscript_iPhone.pdf`: فقط نسخه اصلاح‌شده مقاله، بدون گزارش داوری.
 - `exports/Corrected_Manuscript_iPhone.docx`: نسخه Word مقاله اصلاح‌شده برای ویرایش و ارسال.
+- `exports/Complete_Revised_Manuscript_iPhone.pdf`: مقاله کامل بازنویسی‌شده با هفت جدول و فهرست یکپارچه منابع جدید.
+- `exports/Complete_Revised_Manuscript_iPhone.docx`: نسخه Word کامل مقاله ریوایزشده برای تکمیل اطلاعات نویسندگان.
 
-دو فایل `Q1_Manuscript_Review` شامل کل بسته‌اند؛ دو فایل `Corrected_Manuscript` فقط مقاله اصلاح‌شده را شامل می‌شوند.
+فایل‌های `Q1_Manuscript_Review` شامل کل بسته داوری‌اند. فایل‌های `Complete_Revised_Manuscript` نسخه کامل مقاله ریوایزشده و مناسب‌ترین خروجی برای ادامه ویرایش نویسندگان هستند.
 
 ## روش استفاده
 
