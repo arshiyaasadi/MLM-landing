@@ -212,6 +212,7 @@ ax.text(
 plt.tight_layout()
 fig.savefig("/workspace/consort-diagram/consort_flow_diagram.png", dpi=220, bbox_inches="tight")
 fig.savefig("/workspace/consort-diagram/consort_flow_diagram.svg", bbox_inches="tight")
+fig.savefig("/workspace/consort-diagram/consort_flow_diagram.pdf", bbox_inches="tight")
 print("Saved diagram.")
 print("ALLOCATED", ALLOCATED)
 print("NOT_RECEIVED", NOT_RECEIVED)
