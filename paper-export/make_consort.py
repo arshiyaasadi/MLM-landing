@@ -30,15 +30,10 @@ ax.text(5.5, 12.6, "CONSORT Flow Diagram", ha='center', va='center',
 
 # Assessed for eligibility
 cx, y1, y2 = box(3.25, 11.5, 5.0, 0.7, "Assessed for eligibility (n = 105)", green)
-arrow(5.75, 11.5, 11.5)
 
 # Excluded
 cx, y1, y2 = box(3.25, 10.15, 5.0, 0.95,
                   "Excluded (n = 17)\n• Not meeting inclusion criteria / declined\nor other reasons (n = 17)", red, fontsize=8.7)
-arrow(5.75, y2 if False else 10.15+0.95, 11.5)  # placeholder, corrected below
-
-# Fix arrow order: eligibility -> excluded
-ax.patches[-1]  # no-op
 
 # Randomized
 cx, y1, y2 = box(3.25, 9.05, 5.0, 0.7, "Randomized (n = 88)", blue)
