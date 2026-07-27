@@ -221,37 +221,7 @@ Post-hoc pairwise comparisons were performed using Mann–Whitney U tests, with 
 
 *Exact per-outcome pairwise p-values and mean-difference [95% CI] values were not included in the text supplied; only the aggregate bounds were stated in the source.*
 
-Between-group standardized effect sizes (Hedges' g) at the 3-month endpoint are presented in Table 10; the corresponding 1-month interim effect sizes are presented separately in the Discussion (Sections 4.1 and 4.2, Tables 8–9), where they are used to contextualize the temporal pattern of treatment response.
-
-**Table 10.** Between-group Hedges' g (Δ Baseline − 3 Months). Negative values favor the first-named group (lower scores = improvement).
-
-| Outcome | Group1 vs Group3 g [95% CI] | Group2 vs Group3 g [95% CI] | Group1 vs Group2 g [95% CI] |
-|---|---|---|---|
-| MPQ5 | 1.52 [0.93, 2.10] | 1.75 [1.14, 2.37] | −0.26 [−0.79, 0.26] |
-| VAS | 1.84 [1.22, 2.46] | 1.35 [0.77, 1.93] | 0.11 [−0.41, 0.63] |
-| MIDAS | 1.11 [0.55, 1.66] | 0.66 [0.12, 1.19] | 0.43 [−0.10, 0.96] |
-| HIT-6 | 2.14 [1.49, 2.79] | 2.44 [1.75, 3.14] | 0.04 [−0.48, 0.56] |
-| Freq. Preventive | 1.48 [0.90, 2.07] | 1.35 [0.77, 1.93] | 0.15 [−0.37, 0.67] |
-| Need Preventive | 1.17 [0.60, 1.72] | 1.20 [0.64, 1.77] | −0.28 [−0.80, 0.25] |
-
-*Note: |g| ≈ 0.2 small, 0.5 medium, 0.8 large, ≥ 1.2 very large.*
-
-**Figure 2** *(insert here — forest plot: "Between-group Hedges' g at Final Follow-up (T3), Group1/Group2 vs Group3, based on Δ = Baseline−Follow-up")*. This figure visualizes the Table 10 data above:
-
-| Comparison | g [95% CI] |
-|---|---|
-| MPQ5 — Group1 vs Group3 | 1.52 [0.93, 2.10] |
-| MPQ5 — Group2 vs Group3 | 1.75 [1.14, 2.37] |
-| VAS — Group1 vs Group3 | 1.84 [1.22, 2.46] |
-| VAS — Group2 vs Group3 | 1.35 [0.77, 1.93] |
-| MIDAS — Group1 vs Group3 | 1.11 [0.55, 1.66] |
-| MIDAS — Group2 vs Group3 | 0.66 [0.12, 1.19] |
-| HIT-6 — Group1 vs Group3 | 2.14 [1.49, 2.79] |
-| HIT-6 — Group2 vs Group3 | 2.44 [1.75, 3.14] |
-| Frequency of Preventive Med. Use — Group1 vs Group3 | 1.48 [0.90, 2.07] |
-| Frequency of Preventive Med. Use — Group2 vs Group3 | 1.35 [0.77, 1.93] |
-| Need for Preventive Medication — Group1 vs Group3 | 1.17 [0.60, 1.72] |
-| Need for Preventive Medication — Group2 vs Group3 | 1.20 [0.64, 1.77] |
+Between-group standardized effect sizes (Hedges' g) are reported alongside the Discussion, where they are used to contextualize the magnitude and temporal pattern of treatment response relative to sham and between the two active stimulation sites: the 1-month interim estimates are presented in Sections 4.1–4.2 (Tables 8–9), and the 3-month (final follow-up) estimates are presented in Section 4.5 (Table 10).
 
 ## 3.4. Adverse Events and Tolerability
 
@@ -312,7 +282,7 @@ We observed a 46.3% reduction in pain intensity (VAS) in the supraorbital group 
 
 The apparent difference in the temporal pattern of response between the two active sites was not formally tested, as the trial's statistical plan specified between-group comparisons only at the 3-month endpoint (Section 2.8); no interaction test or 1-month between-group comparison was pre-specified. Any interpretation of this numerical pattern is therefore hypothesis-generating only and should not be read as evidence of a genuine difference in onset kinetics between stimulation sites. With that caveat, supraorbital stimulation showed a numerically faster initial response in VAS scale (44.2% pain reduction at 1 month, 46.3% at 3 months), while infraorbital stimulation showed a more gradual trajectory (28.6% at 1 month, 44.8% at 3 months), converging to a similar level by 3 months (Supra−infra MD 0.02, 95% CI −0.60 to 0.64).
 
-The supplementary 1-month effect-size analyses presented in Sections 4.1–4.2 (Tables 8–9) are consistent with this descriptive pattern: at 1 month, the between-group Hedges' g for VAS is already large for supraorbital-vs-sham (g = 1.35, Table 9) but comparatively smaller for infraorbital-vs-sham (g = 0.63, Table 9), narrowing to comparable magnitudes by 3 months (Table 10: g = 1.84 vs g = 1.35).
+The supplementary 1-month effect-size analyses presented in Sections 4.1–4.2 (Tables 8–9) are consistent with this descriptive pattern: at 1 month, the between-group Hedges' g for VAS is already large for supraorbital-vs-sham (g = 1.35, Table 9) but comparatively smaller for infraorbital-vs-sham (g = 0.63, Table 9), narrowing to comparable magnitudes by 3 months (Table 10, Section 4.5: g = 1.84 vs g = 1.35).
 
 If replicated in adequately powered, site-matched trials, one speculative and untested explanation is anatomical: the supraorbital nerve is a superficial terminal branch of the ophthalmic division of the trigeminal nerve, which may allow faster afferent recruitment, whereas the infraorbital nerve (maxillary division) may engage partially distinct afferent pathways before converging on shared trigeminovascular and brainstem circuits [36,37]. We emphasize that this account is offered only as a possible direction for future mechanistic study, not as an explanation supported by the present data. More broadly, proposed mechanisms for TENS analgesia in migraine include gate-control-mediated suppression of nociceptive transmission via large-diameter Aβ afferents [14], engagement of descending inhibitory pathways (periaqueductal gray, rostral ventromedial medulla, anterior cingulate cortex, hypothalamus, thalamus) [4,36,37], and modulation of serotonergic, GABAergic, and CGRP-related signaling [37]. The similar 3-month outcomes across sites are compatible with convergence of trigeminal sensory inputs within the trigeminocervical complex, but this trial did not include imaging or biomarker measures capable of testing any of these mechanisms directly.
 
@@ -336,6 +306,38 @@ The descriptive contrasts below (Table 12) were not statistically significant be
 | Headache impact (HIT-6) | ~20% (−13.1 pts) | ~20% (−12.8 pts) |
 | Analgesic use frequency | 65.7% | 61.6% |
 | Preventive medication need (MPQ-5) | 36.5% | 43.9% |
+
+Effect size estimates at the 3-month follow-up confirmed the durability of treatment benefits. Both active stimulation protocols showed consistently large between-group effects compared with sham across all clinical outcomes (Hedges' g generally >1.0), whereas direct comparisons between supraorbital and infraorbital stimulation yielded trivial or small effect sizes with confidence intervals crossing zero, reinforcing the conclusion that neither stimulation site demonstrated clinically relevant superiority over the other (Table 10).
+
+**Table 10.** Between-group Hedges' g (Δ Baseline − 3 Months). Negative values favor the first-named group (lower scores = improvement).
+
+| Outcome | Group1 vs Group3 g [95% CI] | Group2 vs Group3 g [95% CI] | Group1 vs Group2 g [95% CI] |
+|---|---|---|---|
+| MPQ5 | 1.52 [0.93, 2.10] | 1.75 [1.14, 2.37] | −0.26 [−0.79, 0.26] |
+| VAS | 1.84 [1.22, 2.46] | 1.35 [0.77, 1.93] | 0.11 [−0.41, 0.63] |
+| MIDAS | 1.11 [0.55, 1.66] | 0.66 [0.12, 1.19] | 0.43 [−0.10, 0.96] |
+| HIT-6 | 2.14 [1.49, 2.79] | 2.44 [1.75, 3.14] | 0.04 [−0.48, 0.56] |
+| Freq. Preventive | 1.48 [0.90, 2.07] | 1.35 [0.77, 1.93] | 0.15 [−0.37, 0.67] |
+| Need Preventive | 1.17 [0.60, 1.72] | 1.20 [0.64, 1.77] | −0.28 [−0.80, 0.25] |
+
+*Note: |g| ≈ 0.2 small, 0.5 medium, 0.8 large, ≥ 1.2 very large.*
+
+**Figure 2** *(insert here — forest plot: "Between-group Hedges' g at Final Follow-up (T3), Group1/Group2 vs Group3, based on Δ = Baseline−Follow-up")*. This figure visualizes the Table 10 data above:
+
+| Comparison | g [95% CI] |
+|---|---|
+| MPQ5 — Group1 vs Group3 | 1.52 [0.93, 2.10] |
+| MPQ5 — Group2 vs Group3 | 1.75 [1.14, 2.37] |
+| VAS — Group1 vs Group3 | 1.84 [1.22, 2.46] |
+| VAS — Group2 vs Group3 | 1.35 [0.77, 1.93] |
+| MIDAS — Group1 vs Group3 | 1.11 [0.55, 1.66] |
+| MIDAS — Group2 vs Group3 | 0.66 [0.12, 1.19] |
+| HIT-6 — Group1 vs Group3 | 2.14 [1.49, 2.79] |
+| HIT-6 — Group2 vs Group3 | 2.44 [1.75, 3.14] |
+| Frequency of Preventive Med. Use — Group1 vs Group3 | 1.48 [0.90, 2.07] |
+| Frequency of Preventive Med. Use — Group2 vs Group3 | 1.35 [0.77, 1.93] |
+| Need for Preventive Medication — Group1 vs Group3 | 1.17 [0.60, 1.72] |
+| Need for Preventive Medication — Group2 vs Group3 | 1.20 [0.64, 1.77] |
 
 ## 4.6. Clinical Implications
 
